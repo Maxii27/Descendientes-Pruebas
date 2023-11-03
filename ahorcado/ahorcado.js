@@ -16,7 +16,7 @@ var palabras = [["Api", "Cristina chorra"],
 ["escalada", "Actividad en la naturaleza"],
 ["empanadilla", "masa crocante de carne al horno o frita "],
 ["torta", "De la pastelería"],
-["universidad", "Lugar para estudiar"],
+["escuela", "Lugar para estudiar"],
 ["pelea", "furioso"],
 ["higuera", "Tierra"]];
 
