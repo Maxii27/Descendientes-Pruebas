@@ -7,18 +7,18 @@ var palabras = [["Api", "Cristina chorra"],
 ["Instagram", "Red Social mas conocida"],
 ["html", "Esqueleto de una pagina web"],
 ["Algoritmos", "Series de pasos que se ejecutan para resolver un tipo de problema"],
-["petanca", "Un juego"], ["higuera", "Un árbol"],
+["petanca", "Un juego"], ["palo borrado", "Un árbol"],
 ["Notepac", "Editor de texto y código libre"],
 ["Servidor", "Un programa informático que procesa una aplicación  "],
-["caballo", "Un animal"],
-["luxemburgo", "Un país"], ["uruguay", "Un país"],
-["ilustracion", "Representación gráfica"],
-["excursion", "Actividad en la naturaleza"],
+["perro", "Un animal"],
+["argentina", "Un país"], ["uruguay", "Un país"],
+["imagen", "Representación gráfica"],
+["escalada", "Actividad en la naturaleza"],
 ["empanadilla", "masa crocante de carne al horno o frita "],
-["pastel", "De la pastelería"],
-["colegio", "Lugar para estudiar"],
-["carrera", "furioso"],
-["Clave", "Tierra"]];
+["torta", "De la pastelería"],
+["universidad", "Lugar para estudiar"],
+["pelea", "furioso"],
+["higuera", "Tierra"]];
 
 let palabra = "";
 
